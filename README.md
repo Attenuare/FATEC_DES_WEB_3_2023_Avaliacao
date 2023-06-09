@@ -1,9 +1,6 @@
 # FATEC_DES_WEB_3_2023_Avaliacao
 Desenvolvimento de um sistema que faz uso do framework Django, utilizando apenas duas views não estática que faz conexão com o banco de dados
 
-<h1>Outside Event Fatec</h1>
-<br>
-
 # Outside Event Fatec
 Projeto desenvolvido para a matéria de Desenvolvimento de Software III durante o terceiro semestre do curso de Desenvolvimento de Software Multiplataformas
 
